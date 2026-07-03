@@ -42,7 +42,7 @@ Continue encouraging developers to respond promptly to customer reviews, as acti
 ```
 shopify-app-store-analysis/
 ├── README.md
-├── report.pbix
+├── shopify_app_store_analysis.pbix
 ├── data/
 │   ├── apps.csv
 │   └── reviews.csv
