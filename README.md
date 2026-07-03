@@ -63,4 +63,3 @@ shopify-app-store-analysis/
 
 - `apps.csv`
 - `reviews.csv`
-````
