@@ -47,8 +47,8 @@ shopify-app-store-analysis/
 │   ├── apps.csv
 │   └── reviews.csv
 └── screenshots/
-    ├── overview_page.png
-    ├── trend_analysis_page.png
+    ├── overview.png
+    ├── trend_analysis.png
     └── model_view.png
 ```
 
